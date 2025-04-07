@@ -34,23 +34,6 @@ I’m passionate about secure, scalable AI systems—especially large language m
 *Sales + Inventory Forecasting | Fall 2021*  
 - Boosted sales prediction accuracy by 12% using analytics dashboards.  
 - Reduced fleet downtime by optimizing inventory.
-
----
-
-### 🚀 Projects
-
-**🔐 Improving LLM Code Generation Robustness**  
-- Fine-tuned LLMs for secure coding and integrated **CodeQL** to cut manual audits.
-
-**🎤 ChatGPT Audio Mobile App**  
-- Hands-free GPT-3 app with **speech-to-text/text-to-speech** integration and latency optimization.
-
-**🛡️ Information Security Tooling**  
-- Simulated exploits (e.g., buffer overflows, CSRF, XSS) to strengthen C and web application defenses.
-
-**🚗 Self-Driving Car Prototype**  
-- Built an autonomous vehicle using **Raspberry Pi + Deep Q-Learning + ARS**.
-
 ---
 
 ### 🧰 Tech Stack
