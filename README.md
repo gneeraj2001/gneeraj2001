@@ -8,14 +8,6 @@ I’m passionate about secure, scalable AI systems—especially large language m
 
 ---
 
-### 🔍 What I'm Working On
-
-- 🛡️ Researching **LLM security and alignment** at Purdue to build more robust and ethical AI.
-- 🔐 Developing defenses against **Membership Inference Attacks** and other privacy threats.
-- 🤖 Detecting LLM-generated survey responses to ensure **data integrity** in behavioral research (current research).
-
----
-
 ### 💼 Experience Highlights
 
 **🔬 Research Intern @ Purdue University**  
