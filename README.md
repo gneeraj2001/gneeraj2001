@@ -26,8 +26,7 @@ I thrive in fast-paced, small team environments, especially where I can work acr
 
 ## 📄 Resume & Links
 
-- 📄 [My Resume](https://your-link.com/resume.pdf)
-
+- 📄 [My Resume](https://github.com/gneeraj2001/gneeraj2001/blob/main/Resume_Neeraj_Updated%20(1).pdf)
 
 ---
 
