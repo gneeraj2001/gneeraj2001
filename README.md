@@ -27,10 +27,7 @@ I thrive in fast-paced, small team environments, especially where I can work acr
 ## 📄 Resume & Links
 
 - 📄 [My Resume](https://your-link.com/resume.pdf)
-- 🧠 Selected Projects (public-safe versions):
-  - [Emotion Recognition (Internship)](https://github.com/your-repo)
-  - [AI Carbon Footprint Dashboard (Frontend)](https://github.com/your-repo)
-  - [Steganography Prototype (Public)](https://github.com/your-repo)
+
 
 ---
 
