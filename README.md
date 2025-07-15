@@ -6,7 +6,6 @@ I'm an engineer and researcher passionate about building robust and secure AI sy
 
 ## 🚀 What I Do
 
-- Working on my own **AI-focused startup**, building from the ground up.
 - Previously interned at a **startup environment**, shipping 0→1 features for voice-based emotion recognition with real-world privacy constraints.
 - Experienced in deploying secure and efficient **LLM applications**, particularly in **alignment, robustness, and safety**.
 - Full-stack capable: I build and scale systems using **Python, Node.js, React, TypeScript, and cloud-native tools**.
